@@ -1,0 +1,7 @@
+# One referral code per line. Lines starting with # are ignored.
+# Format:
+# CODE
+# CODE,permanent
+# CODE,yyyy-MM-dd
+AIRPORT2026,2026-12-31
+VIP2026,permanent
