@@ -3,5 +3,5 @@
 # CODE
 # CODE,permanent
 # CODE,yyyy-MM-dd
-AIRPORT2026,2026-12-31
-VIP2026,permanent
+260309,2026-12-31
+2604274,permanent
